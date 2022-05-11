@@ -12,3 +12,6 @@ navegador basado en chromium
 
 ![Captura de pantalla (2)](https://user-images.githubusercontent.com/84945650/167776581-998cb440-1c5d-4bba-81ab-e93ead55b890.png)
 ![Captura de pantalla (1)](https://user-images.githubusercontent.com/84945650/167776599-f04fc343-7d31-42b9-8d50-9680b8073b0e.png)
+
+
+# click derecho habilitado con acciones
