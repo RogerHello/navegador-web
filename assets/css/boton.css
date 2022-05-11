@@ -1,0 +1,46 @@
+button{
+    border: none;
+    padding: 5px;
+    background-color: transparent;
+    color: #fff;
+    font-size: 13px;
+    
+}
+
+#reload{
+    font-size: 15px;
+}
+
+#back{
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+button:hover{
+
+    background-color: rgba(249, 249, 249, 0.159);
+    color: #ffffff;
+    padding-bottom: -20px;
+    border-radius: 10%;
+}
+
+#url_field{
+    width: 80%;
+    margin-left: 9%;
+    border: none;
+    padding: 5px;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(24, 24, 24);
+
+
+}
+
+#url_field:hover{
+    background-color: rgba(24, 24, 24, 0.564);
+    color: #ffffff;
+}
+
+#url_field:active{
+    border: solid 1px #0c3ee0;; 
+}
